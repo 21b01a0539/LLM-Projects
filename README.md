@@ -8,7 +8,7 @@ Built with **Streamlit**, the app enables users to input a topic and generates a
 3. **Content Refining**: The **Editor** ensures the blog post aligns with journalistic standards and is free of grammatical errors.
 4. **Output**: The final blog post is displayed on Streamlit for review and publication.
 
-# AI-Powered Job Application Assistant
+# AI-Powered Job Application Assistant - `interview.py`
 
 This project leverages **Google Gemini APIs**, **LangChain**, and **Streamlit** to provide an AI-powered assistant for job applicants. The tool analyzes resumes, suggests improvements, and generates interview preparation strategies based on a job description and company profile.
 
